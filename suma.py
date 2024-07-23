@@ -1,5 +1,4 @@
-a = 10
-b = 10
-c = a + b
+def suma(a, b):
+    return(a + b)
 
-print(c)
+print((10, 10))
